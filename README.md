@@ -1,2 +1,2 @@
 # react-projects
-All of my personal React project
+All of my personal React projects
